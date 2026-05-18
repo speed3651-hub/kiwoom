@@ -22,3 +22,8 @@ git log: 커밋 히스토리 확인.5. 파일 복원 및 삭제
 git restore <파일명>: 작업 디렉토리의 파일 변경 사항 취소 (2.23 이상).
 git rm <파일명>: 파일을 삭제하고 스테이징 영역에 추가.
 
+$ git remote -v
+test    https://github.com/choiiis/balanchew.git (fetch)
+test    https://github.com/choiiis/balanchew.git (push)
+
+https://github.com/speed3651-hub/kiwoom
